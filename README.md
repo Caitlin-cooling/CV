@@ -1,29 +1,27 @@
-## Your Name
+## CAITLIN COOLING
+I am a full stack Ruby developer.
 
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what you're looking for: what you would ideally be doing, with whom and in what environment.
+Through my experience with QA, I found that I had a passion for web and software. I pursued this at first with my own self-directed learning, then seeking out opportunities such as Makers Academy to gain a foundation knowledge of professional level software development. 
+
+I am a self-driven and motivated professional, looking for a challenging new Technical opportunity in the London area. I am keen to continue creating while following best practises.
 
 ## Skills
 
-#### This Skill
+#### Communication
 
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
+Throughout the duration of my career I have found that communication comes naturally to me, from handling effective dialogue  within the company, to partners and clients. As a result of this, I helped to implement an entire new training guide for the Support Department at MoveGB in a period of 4 weeks. 
 
-- Experience
-- Achievements
-- Evidence
+During my time at Makers I have created and maintained a [blog](https://caitlincooling.wordpress.com/) about my experiences to maintain and further my written communication skills.
 
-#### Another Skill
+#### Problem Solving and Critical Thinking
 
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
+Working in a fast moving startup meant that problem solving was a crucial skill to have. Working in this environment helped me to develop the skill greatly. I was the go to for not only my own team, but many other members of the company when they had difficulties to overcome and solve. I am also partial to a good sudoku!
 
-- I achieved A during my work at B (job, or otherwise)
-- I contributed to the growth of X while doing Y (job, or otherwise)
-- I built this, made this, broke this, fixed this, etc.
-- A link to some on-line evidence (blogs, videos, articles, etc.)
+During my time as a QA I found critical thinking to be an essential part of my role. I was not only checking for bugs, as the company had very limited code testing in place, I was checking the user journey and any flaws that this may have. I helped the product team to catch and fix many shortcomings before release, in turn reducing the overall enquiries that reached the Support Team.
 
 ## Education
 
-#### Makers Academy (start_date to end_date)
+#### Makers Academy (September 2018 - December 2018)
 
 - Curious and passionate about code. [PROVIDE EVIDENCE]
 - Fast, independent learner [PROVIDE EVIDENCE]
@@ -34,17 +32,28 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - Ruby, Rails, JavaScript
 - RSpec, Jasmine
 
-#### Your University / College (start_date to end_date)
+#### City of Bath College (April - June 2018)
 
-- Subject, any specialisms
-- Grade
-- Other cool stuff
+Part time course in Web Development - Interactive Elements
+- JavaScript, PHP
 
-#### Any other qualifications
+#### Mount Albert Grammar Scool (2010 - 2015)
+
+NCEA level 3 (New Zealand equivalent to A levels) in Biology(A), Chemistry(A), English(A), French(B),  Maths(B)
 
 ## Experience
 
-**Company Name** (start_date to end_date)    
-*Your job title*  
-**Company Name** (start_date to end_date)   
-*Your job title*  
+**MoveGB** (October 2017 - September 2018)    
+*Support Team Lead*
+
+Responsible for leading a team of 10, this included increasing productivity and implementing a new training structure as well as providing support for team growth. 
+
+**MoveGB** (October 2017 - September 2018)    
+*Quality Assurance*
+
+Responsible for manual testing of web and app features before release. Combined with my role of leading the Support Team, I was responsible for updating the team on any changes in the product.
+
+**MoveGB** (October 2016 - October 2017)    
+*Support Team Member*
+
+
