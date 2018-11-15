@@ -47,10 +47,12 @@ NCEA level 3 (New Zealand equivalent to A levels) in Biology(A), Chemistry(A), E
 
 **MoveGB** (October 2017 - September 2018)    
 *Quality Assurance* 
+
 Responsible for manual testing of web and app features before release. As the only member of staff assinged to QA I was resonsible for writing my tests and reporting bugs directly to the deveoplers. Combined with my role of leading the Support Team, I was accountable for updating the team on any changes in the product.
 
 **MoveGB** (October 2017 - September 2018)    
 *Support Team Lead* 
+
 Responsible for leading a team of 10, this included increasing productivity and implementing a new training structure as well as providing support for team growth. 
 
 **MoveGB** (October 2016 - October 2017)    
