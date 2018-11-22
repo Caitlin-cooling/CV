@@ -1,5 +1,5 @@
 ## CAITLIN COOLING
-[Projects](#projects)
+[Projects](#projects) | [Skills](#skills) | [Experience](#experience) | [Education](#education) | [Networks](#networks-and-media)
 
 I am a full stack Ruby and JavaScript developer.
 
