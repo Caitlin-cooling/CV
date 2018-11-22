@@ -1,5 +1,5 @@
 ## CAITLIN COOLING
-#### [Projects](#projects)
+[Projects](#projects)
 I am a full stack Ruby and JavaScript developer.
 
 Through my experience with QA, I found that I had a passion for software. I pursued this at first with my own self-directed learning, then seeking out opportunities such as a course at Bath College and Makers Academy to gain a foundation knowledge of professional level software development. 
