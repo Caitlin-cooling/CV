@@ -1,4 +1,5 @@
 ## CAITLIN COOLING
+### [Projects](./cv#Projects)
 I am a full stack Ruby and JavaScript developer.
 
 Through my experience with QA, I found that I had a passion for software. I pursued this at first with my own self-directed learning, then seeking out opportunities such as a course at Bath College and Makers Academy to gain a foundation knowledge of professional level software development. 
@@ -6,6 +7,11 @@ Through my experience with QA, I found that I had a passion for software. I purs
 Outside of work, I love attending meetups to learn more about the field that I am excited by. I also enjoy exploring London's many galleries and museums. 
 
 I am a self-driven and motivated professional, looking for a challenging new Technical opportunity in the London area. I am keen to continue creating while learning and following best practises.
+
+## Projects
+|Project | Summary  |Technologies | Testing |
+|--------|:--------:| :----------:| -------:|
+|        |          |             |         |
 
 ## Skills
 
@@ -58,4 +64,7 @@ Responsible for leading a team of 10, this included increasing productivity and 
 **MoveGB** (October 2016 - October 2017)    
 *Support Team Member*
 
-
+## Networks and Media
+- [Twitter](https://twitter.com/CaitlinCooling)
+- [LinkedIn](https://www.linkedin.com/in/caitlin-cooling-366470171/)
+- [Blog](https://caitlincooling.wordpress.com/)
