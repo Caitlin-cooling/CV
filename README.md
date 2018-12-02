@@ -12,20 +12,20 @@ I am a self-driven and motivated professional, looking for a challenging new Tec
 ## Projects
 |Project | Summary  |Technologies | Testing |
 |--------|:--------:| :----------:| -------:|
-|    [Instagram](https://github.com/Caitlin-cooling/instagram-challenge)    |    An Instagram clone made during as a Makers Academy weekend challenge      |      Ruby on Rails, Active Storage, Bootstrap, CSS, Active Record, Travis, Heroku        |   Rspec, Capybara      |
+| [Instagram](https://github.com/Caitlin-cooling/instagram-challenge) | An Instagram clone allowing a user to sign up, add an avatar, create, like and comment on posts as well as see a profile page | Ruby on Rails, Active Storage, Bootstrap, CSS, Active Record, Travis, Heroku | Rspec, Capybara |
 | [Bowling Scorecard](https://github.com/Caitlin-cooling/bowling-challenge)  | A bowling scorcard that allows the user to enter their scores and calculates a running total and bonus points for strikes and spares | JavaScript, jQuery, HTML, CSS | Jasmine |
 
 ## Skills
 
 #### Communication
 
-Throughout the duration of my career so far I have found that communication comes naturally to me, from handling effective dialogue within a company, to with partners and clients. As a result of this, I helped to implement an entire new training guide for the Support Department at MoveGB in a period of 4 weeks. 
+Throughout the duration of my career I have found that communication comes naturally to me and was given the responsiblity of effectively handling dialogue with partners, clients and within the company itself. As a result of this, I took the initiative to design and implement an entirely new training guide for the Support Department at MoveGB in the short period of 3 weeks, allowing future team members to benefit from my significant knowledge base. 
 
-During my time at Makers I have created and maintained a [blog](https://caitlincooling.wordpress.com/) about my experiences to maintain and further my written communication skills. I also mentored a fellow student.
+During my time at Makers I have created and maintained a [blog](https://caitlincooling.wordpress.com/) about my experiences to further my written communication skills as well as be a tool for future developers. I also mentored a student at Makers Academy as I was keen to share the invalubale skills and knowledge that I had gained.
 
 #### Problem Solving and Critical Thinking
 
-Working in a fast moving startup meant that problem solving was a crucial skill to have and working in this environment helped me to develop the technique further. I was the go to for not only my own team, but many other members of the company when they had difficulties to overcome or solve. As a result, I contributed to a new training system to help pass the things that I learnt to new starters.
+Working in a fast moving startup meant that problem solving was a crucial skill to have. I was the go to for not only my own team, but many other members of the company when they had difficulties to overcome or solve.
 
 During my time as a QA I found critical thinking to be an essential part of my role. I was not only checking for bugs, as the company had very limited code testing in place, but also the user journey and any flaws that this may have. I helped the product team to catch and fix many shortcomings before release, in turn reducing the overall enquiries that reached the Support Team.
 
