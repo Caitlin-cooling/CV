@@ -3,7 +3,7 @@
 
 I am a full stack Ruby and JavaScript developer, specialising in front end.
 
-Through my experience with QA, I found that I had a passion for software. I pursued this at first with my own self-directed learning, then seeking out opportunities such as courses at Bath City College and Makers Academy to gain a foundation knowledge of professional level software development. 
+My significant skillset was furthered through my experience with QA, where I found that I had a passion for technology. I pursued this at first with my own self-directed learning, then seeking out opportunities such as courses at Bath City College and [Makers Academy](https://makers.tech/) to gain a foundation knowledge of professional level software development. 
 
 Outside of work, I love attending meetups to learn more about the field that I am excited by. I also enjoy exploring London's many galleries and museums. 
 
@@ -19,30 +19,34 @@ I am a self-driven and motivated professional, looking for a challenging new Tec
 
 #### Communication
 
-Throughout the duration of my career I have found that communication comes naturally to me and was given the responsibility of effectively handling dialogue with partners, clients and within the company itself. As a result of this, I took the initiative to design and implement an entirely new training guide for the Support Department at MoveGB in the short period of 3 weeks, allowing future team members to benefit from my significant knowledge base. 
+Utilising friendly and eloquent communication and interpersonal skills developed initially as a customer service representative at the Award-winning technology Start-up, [MoveGB](https://www.movegb.com). I always took the initiative to improve the **company** by suggesting process flow and product improvements. I even took it upon myself to design and implement an entirely new training guide for the Support Department at MoveGB in the short period of 3 weeks, allowing future team members to benefit from my significant knowledge base even after I left the company to pursue a career in software engineering. 
 
-During my time at Makers I have created and maintained a [blog](https://caitlincooling.wordpress.com/) about my experiences to further my written communication skills as well as be a tool for future developers. I also mentored a student at Makers Academy as I was keen to share the invaluable skills and knowledge that I had gained.
+During my time at Makers I have created and maintained a [blog](https://caitlincooling.wordpress.com/). This was created primarily to act as a tool for prospective developers to assist them in bridging the knowledge gap that I first encountered. It also became an excellent way to reflect and document the experiences and learnings during my career change. 
+
+I chose to mentored a Makers student as I was keen to share the invaluable skills and knowledge that I had gained.
 
 #### Problem Solving and Critical Thinking
 
-Working in a fast moving startup meant that problem solving was a crucial skill to have. I was the go to for not only my own team, but many other members of the company when they had difficulties to overcome or solve.
+By positioning myself between the support and tech teams at moveGB, I became the go-to contact for multiple other departments, wishing to utilise my critical thinking skillset, knowledge and ability to tailor both the language and context of the solutions I provide to the parties involved,.
 
-During my time as a QA I found critical thinking to be an essential part of my role. I was not only checking for bugs, as the company had very limited code testing in place, but also the user journey and any flaws that this may have. I helped the product team to catch and fix many shortcomings before release, in turn reducing the overall enquiries that reached the Support Team.
+My innate problem solving ability was properly utilised when I moved in to my QA role. I was able to understand what products and features customers wanted to see in the website and applications they use on a daily basis. By working with the Technical department to design, develop and implement these components, the overall enquiries that reached the support team was reduced greatly. 
 
 ## Experience
 
 **MoveGB** (October 2017 - September 2018)    
 *Quality Assurance* 
 
-Responsible for manual testing of web and app features before release. As the only member of staff assigned to QA I was responsible for documenting tests and reporting bugs directly to the developers. Combined with my role of leading the Support Team, I was accountable for updating the team on any changes in the product.
+Responsible for manual testing of web as well as iOS and Android app features before release. As the only member of QA team I was responsible for documenting tests and reporting bugs directly to the developers. Working in an agile environment, I took part in ceremonies such as sprint planning, standups and retrospectives.
 
 **MoveGB** (October 2017 - September 2018)    
 *Support Team Lead* 
 
-Responsible for leading a team of 10, this included increasing productivity and implementing a new training structure as well as providing support for team growth. 
+Trusted to communicate with key stakeholders, clients and external partners, I oversaw the expansion of the support team’s growth by 100% over the course of a single year. My role included guiding and supporting team members in turn maximising overall productivity. 
 
 **MoveGB** (October 2016 - October 2017)    
 *Support Team Member*
+
+Responsible for providing a high level of support to customers and external partners, working cohesively within a growing team. Specialising in complaint resolution and maintaining the brands image.
 
 ## Education
 
@@ -56,6 +60,7 @@ Responsible for leading a team of 10, this included increasing productivity and 
 - Agile/XP
 - Ruby, Rails, JavaScript
 - RSpec, Jasmine
+- SQL
 
 #### City of Bath College (April - June 2018)
 
