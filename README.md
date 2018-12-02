@@ -12,7 +12,7 @@ I am a self-driven and motivated professional, looking for a challenging new Tec
 ## Projects
 |Project | Summary  |Technologies | Testing |
 |--------|:--------:| :----------:| -------:|
-|        |          |             |         |
+|    [Instagram](https://github.com/Caitlin-cooling/instagram-challenge)    |    An Instagram clone made during as a Makers Academy weekend challenge      |      Ruby on Rails, Active Storage, Bootstrap, CSS, Active Record, Travis, Heroku        |   Rspec, capybara      |
 
 ## Skills
 
