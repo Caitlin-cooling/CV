@@ -13,15 +13,15 @@ I am a self-driven and motivated professional, looking for a challenging new Tec
 |Project | Summary  |Technologies | Testing |
 |--------|:--------:| :----------:| -------:|
 | [Instagram](https://github.com/Caitlin-cooling/instagram-challenge) | An Instagram clone allowing a user to sign up, add an avatar, create, like and comment on posts as well as see a profile page | Ruby on Rails, Active Storage, Bootstrap, CSS, Active Record, Travis, Heroku | Rspec, Capybara |
-| [Bowling Scorecard](https://github.com/Caitlin-cooling/bowling-challenge)  | A bowling scorcard that allows the user to enter their scores and calculates a running total and bonus points for strikes and spares | JavaScript, jQuery, HTML, CSS | Jasmine |
+| [Bowling Scorecard](https://github.com/Caitlin-cooling/bowling-challenge)  | A bowling scorecard that allows the user to enter their scores and calculates a running total and bonus points for strikes and spares | JavaScript, jQuery, HTML, CSS | Jasmine |
 
 ## Skills
 
 #### Communication
 
-Throughout the duration of my career I have found that communication comes naturally to me and was given the responsiblity of effectively handling dialogue with partners, clients and within the company itself. As a result of this, I took the initiative to design and implement an entirely new training guide for the Support Department at MoveGB in the short period of 3 weeks, allowing future team members to benefit from my significant knowledge base. 
+Throughout the duration of my career I have found that communication comes naturally to me and was given the responsibility of effectively handling dialogue with partners, clients and within the company itself. As a result of this, I took the initiative to design and implement an entirely new training guide for the Support Department at MoveGB in the short period of 3 weeks, allowing future team members to benefit from my significant knowledge base. 
 
-During my time at Makers I have created and maintained a [blog](https://caitlincooling.wordpress.com/) about my experiences to further my written communication skills as well as be a tool for future developers. I also mentored a student at Makers Academy as I was keen to share the invalubale skills and knowledge that I had gained.
+During my time at Makers I have created and maintained a [blog](https://caitlincooling.wordpress.com/) about my experiences to further my written communication skills as well as be a tool for future developers. I also mentored a student at Makers Academy as I was keen to share the invaluable skills and knowledge that I had gained.
 
 #### Problem Solving and Critical Thinking
 
@@ -34,7 +34,7 @@ During my time as a QA I found critical thinking to be an essential part of my r
 **MoveGB** (October 2017 - September 2018)    
 *Quality Assurance* 
 
-Responsible for manual testing of web and app features before release. As the only member of staff assinged to QA I was resonsible for documenting tests and reporting bugs directly to the deveoplers. Combined with my role of leading the Support Team, I was accountable for updating the team on any changes in the product.
+Responsible for manual testing of web and app features before release. As the only member of staff assigned to QA I was responsible for documenting tests and reporting bugs directly to the developers. Combined with my role of leading the Support Team, I was accountable for updating the team on any changes in the product.
 
 **MoveGB** (October 2017 - September 2018)    
 *Support Team Lead* 
@@ -62,7 +62,7 @@ Responsible for leading a team of 10, this included increasing productivity and 
 Part time course in Web Development - Interactive Elements
 - JavaScript, PHP
 
-#### Mount Albert Grammar Scool (2010 - 2015)
+#### Mount Albert Grammar School (2010 - 2015)
 
 NCEA level 3 (New Zealand equivalent to A levels) in Biology(A), Chemistry(A), English(A), French(B),  Maths(B)
 
