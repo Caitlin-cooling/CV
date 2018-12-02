@@ -1,9 +1,9 @@
 ## CAITLIN COOLING
 [Projects](#projects) | [Skills](#skills) | [Experience](#experience) | [Education](#education) | [Networks](#networks-and-media)
 
-I am a full stack Ruby and JavaScript developer.
+I am a full stack Ruby and JavaScript developer, specialising in front end.
 
-Through my experience with QA, I found that I had a passion for software. I pursued this at first with my own self-directed learning, then seeking out opportunities such as a course at Bath College and Makers Academy to gain a foundation knowledge of professional level software development. 
+Through my experience with QA, I found that I had a passion for software. I pursued this at first with my own self-directed learning, then seeking out opportunities such as courses at Bath City College and Makers Academy to gain a foundation knowledge of professional level software development. 
 
 Outside of work, I love attending meetups to learn more about the field that I am excited by. I also enjoy exploring London's many galleries and museums. 
 
@@ -12,15 +12,16 @@ I am a self-driven and motivated professional, looking for a challenging new Tec
 ## Projects
 |Project | Summary  |Technologies | Testing |
 |--------|:--------:| :----------:| -------:|
-|    [Instagram](https://github.com/Caitlin-cooling/instagram-challenge)    |    An Instagram clone made during as a Makers Academy weekend challenge      |      Ruby on Rails, Active Storage, Bootstrap, CSS, Active Record, Travis, Heroku        |   Rspec, capybara      |
+|    [Instagram](https://github.com/Caitlin-cooling/instagram-challenge)    |    An Instagram clone made during as a Makers Academy weekend challenge      |      Ruby on Rails, Active Storage, Bootstrap, CSS, Active Record, Travis, Heroku        |   Rspec, Capybara      |
+| [Bowling Scorecard](https://github.com/Caitlin-cooling/bowling-challenge)  | A bowling scorcard that allows the user to enter their scores and calculates a running total and bonus points for strikes and spares | JavaScript, jQuery, HTML, CSS | Jasmine |
 
 ## Skills
 
 #### Communication
 
-Throughout the duration of my career so far I have found that communication comes naturally to me, from handling effective dialogue within a company, to partners and clients. As a result of this, I helped to implement an entire new training guide for the Support Department at MoveGB in a period of 4 weeks. 
+Throughout the duration of my career so far I have found that communication comes naturally to me, from handling effective dialogue within a company, to with partners and clients. As a result of this, I helped to implement an entire new training guide for the Support Department at MoveGB in a period of 4 weeks. 
 
-During my time at Makers I have created and maintained a [blog](https://caitlincooling.wordpress.com/) about my experiences to maintain and further my written communication skills.
+During my time at Makers I have created and maintained a [blog](https://caitlincooling.wordpress.com/) about my experiences to maintain and further my written communication skills. I also mentored a fellow student.
 
 #### Problem Solving and Critical Thinking
 
@@ -33,7 +34,7 @@ During my time as a QA I found critical thinking to be an essential part of my r
 **MoveGB** (October 2017 - September 2018)    
 *Quality Assurance* 
 
-Responsible for manual testing of web and app features before release. As the only member of staff assinged to QA I was resonsible for writing my tests and reporting bugs directly to the deveoplers. Combined with my role of leading the Support Team, I was accountable for updating the team on any changes in the product.
+Responsible for manual testing of web and app features before release. As the only member of staff assinged to QA I was resonsible for documenting tests and reporting bugs directly to the deveoplers. Combined with my role of leading the Support Team, I was accountable for updating the team on any changes in the product.
 
 **MoveGB** (October 2017 - September 2018)    
 *Support Team Lead* 
