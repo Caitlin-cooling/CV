@@ -19,7 +19,7 @@ I am a self-driven and motivated professional, looking for a challenging new Tec
 
 #### Communication
 
-Utilising friendly and eloquent communication and interpersonal skills developed initially as a customer service representative at the Award-winning technology Start-up, [MoveGB](https://www.movegb.com). I always took the initiative to improve the **company** by suggesting process flow and product improvements. I even took it upon myself to design and implement an entirely new training guide for the Support Department at MoveGB in the short period of 3 weeks, allowing future team members to benefit from my significant knowledge base even after I left the company to pursue a career in software engineering. 
+Utilising friendly and eloquent communication and interpersonal skills developed initially as a customer service representative at the Award-winning technology Start-up, [MoveGB](https://www.movegb.com). I always took the initiative to improve the company by suggesting process flow and product improvements. I even took it upon myself to design and implement an entirely new training guide for the Support Department at MoveGB in the short period of 3 weeks, allowing future team members to benefit from my significant knowledge base even after I left the company to pursue a career in software engineering. 
 
 During my time at Makers I have created and maintained a [blog](https://caitlincooling.wordpress.com/). This was created primarily to act as a tool for prospective developers to assist them in bridging the knowledge gap that I first encountered. It also became an excellent way to reflect and document the experiences and learnings during my career change. 
 
