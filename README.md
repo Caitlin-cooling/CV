@@ -27,7 +27,7 @@ I chose to mentored a Makers student as I was keen to share the invaluable skill
 
 #### Problem Solving and Critical Thinking
 
-By positioning myself between the support and tech teams at moveGB, I became the go-to contact for multiple other departments, wishing to utilise my critical thinking skillset, knowledge and ability to tailor both the language and context of the solutions I provide to the parties involved,.
+By positioning myself between the support and tech teams at MoveGB, I became the go-to contact for multiple other departments, wishing to utilise my critical thinking skillset, knowledge and ability to tailor both the language and context of the solutions I provide to the parties involved.
 
 My innate problem solving ability was properly utilised when I moved in to my QA role. I was able to understand what products and features customers wanted to see in the website and applications they use on a daily basis. By working with the Technical department to design, develop and implement these components, the overall enquiries that reached the support team was reduced greatly. 
 
