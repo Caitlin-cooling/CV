@@ -57,9 +57,9 @@ Responsible for providing a high level of support to customers and external part
 
 #### Makers Academy (September 2018 - December 2018)
 
-- Curious and passionate about code. [PROVIDE EVIDENCE]
-- Fast, independent learner [PROVIDE EVIDENCE]
-- Great collaborator [PROVIDE EVIDENCE]
+- Curious and passionate about code
+- Fast, independent learner 
+- Great collaborator 
 
 - OOP, TDD, MVC, DDD
 - Agile/XP
