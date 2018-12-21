@@ -7,7 +7,7 @@ My significant skillset was furthered through my experience with QA, where I fou
 
 Outside of work, I love attending meetups to learn more about the field that I am excited by. I also enjoy exploring London's many galleries and museums. 
 
-I am a self-driven and motivated professional, looking for a challenging new Technical opportunity in the London area. I am keen to continue creating while learning and following best practises.
+I am a self-driven and motivated professional, looking for a challenging new software opportunity in the London area. I am keen to continue creating while learning and following best practises.
 
 ## Projects
 |Project | Summary  |Technologies | Testing |
@@ -20,7 +20,7 @@ I am a self-driven and motivated professional, looking for a challenging new Tec
 
 #### Learning abilities
 
-I am quick, logical and systematic learner, and my technical skillset is growing exponentially. In only 10 weeks at Makers Academy, I was able to gain JavaScript and Ruby programming abilities, as well as accepting the additional challenge of IOS app development in Swift for my final project.
+I am a quick, logical and systematic learner, and my technical skillset is growing exponentially. In only 10 weeks at Makers Academy, I was able to gain JavaScript and Ruby programming abilities, as well as accepting the additional challenge of IOS app development in Swift for my final project.
 
 #### Communication
 
