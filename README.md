@@ -24,7 +24,7 @@ I am a quick, logical and systematic learner, and my technical skillset is growi
 
 #### Communication
 
-Using friendly and eloquent communication and interpersonal skills developed at first as a customer service representative at the Award-winning technology Start-up, [MoveGB](https://www.movegb.com), I always took the initiative to improve the company by suggesting process flow and product improvements. I even took it upon myself to design and implement an entirely new training guide for the Support Department at MoveGB in the short period of 3 weeks, allowing future team members to benefit from my significant knowledge base even after I left the company to pursue a career in software engineering. 
+By positioning myself between the support and tech teams at MoveGB, I became the go-to contact for multiple other departments, wishing to utilise my critical thinking skillset, knowledge and ability to tailor both the language and context of the solutions I provide to the parties involved.
 
 During my time at Makers I have created and maintained a [blog](https://caitlincooling.wordpress.com/). This was created primarily to act as a tool for prospective developers to assist them in bridging the knowledge gap that I first encountered. It also became an excellent way to reflect and document the experiences and learnings during my career change. 
 
@@ -32,16 +32,14 @@ I chose to mentored a Makers student as I was keen to share the invaluable skill
 
 #### Problem Solving and Critical Thinking
 
-By positioning myself between the support and tech teams at MoveGB, I became the go-to contact for multiple other departments, wishing to utilise my critical thinking skillset, knowledge and ability to tailor both the language and context of the solutions I provide to the parties involved.
-
-My innate problem solving ability was clearly shown when I moved in to my QA role. I was able to understand what products and features customers wanted to see in the website and applications they use on a daily basis. By working with the Technical department to design, develop and implement these components, the overall enquiries that reached the support team was reduced greatly. 
+By analysing quantitative department metrics for weekly reporting, I uncovered falling output and morale. To rectify the situation, I designed and implemented a systematic accountability and incentive program boosting productivity, efficiency and overall quality of work.
 
 ## Experience
 
 **MoveGB** (October 2017 - September 2018)    
 *Quality Assurance* 
 
-Responsible for manual testing of web as well as iOS and Android app features before release. As the only member of QA team I was responsible for documenting tests and reporting bugs directly to the developers. Working in an agile environment, I took part in ceremonies such as sprint planning, standups and retrospectives.
+Responsible for manual testing of web, iOS and Android app features before release. As sole QA I was responsible for documenting tests and reporting bugs directly to the developers. Working in an agile environment, I took part in ceremonies such as sprint planning, stand-ups and retrospectives.
 
 **MoveGB** (October 2017 - September 2018)    
 *Support Team Lead* 
@@ -63,8 +61,8 @@ Responsible for providing a high level of support to customers and external part
 
 - OOP, TDD, MVC, DDD
 - Agile/XP
-- Ruby, Rails, JavaScript
-- RSpec, Jasmine
+- Ruby, Rails, JavaScript, React, Swift
+- RSpec, Jasmine, XCTest
 - SQL
 
 #### City of Bath College (April - June 2018)
