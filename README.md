@@ -14,7 +14,7 @@ I am a self-driven and motivated professional, looking for a challenging new sof
 |--------|:--------:| :----------:| -------:|
 | [Instagram](https://github.com/Caitlin-cooling/instagram-challenge) | An Instagram clone allowing a user to sign up, add an avatar, create, like and comment on posts as well as see a profile page | Ruby on Rails, Active Storage, Bootstrap, CSS, Active Record, Travis, Heroku | Rspec, Capybara |
 | [Bowling Scorecard](https://github.com/Caitlin-cooling/bowling-challenge)  | A bowling scorecard that allows the user to enter their scores and calculates a running total and bonus points for strikes and spares | JavaScript, jQuery, HTML, CSS | Jasmine |
-[SwiftCards](https://github.com/IrinaSTA/swiftcards) | An iOS deck of cards app that allows you to play any game you like | Swift, Travis | XCTest 
+[SwiftCards](https://github.com/IrinaSTA/swiftcards) | An iOS deck of cards app that allows you to play any game you like, using multipeer connectivity to enable multiplayer games across devices | Swift, Travis | XCTest 
 
 ## Skills
 
